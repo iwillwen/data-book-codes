@@ -1,0 +1,8 @@
+{
+  "ignore": [
+    "/(dist)/"
+  ],
+  "presets": [
+    "@vue/app"
+  ]
+}
